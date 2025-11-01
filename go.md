@@ -196,8 +196,9 @@ Wahl stehen.
    Stimmrechtsübertragung ist nicht möglich.
    Anträge zur Abstimmung sind positiv zu formulieren.
 6. Änderungsanträge ändern den Wortlaut eines Antrages, aber nicht das Wesen.
-   Sie können von jeder teilnehmenden Person gestellt werden.
-   Änderungsanträge sind vor dem eigentlichen Antrag zu beschließen.
+   Das Wesen eines Antrages wird von den Stellenden des Antrages bestimmt.
+   Änderungsanträge können von jeder teilnehmenden Person gestellt werden.
+   Sie sind vor dem eigentlichen Antrag zu beschließen.
    Die notwendigen Mehrheiten zur Annahme von Änderungsanträgen entsprechen der
    von Beschlüsse.
    Soweit das Plenum den Änderungsanträgen zustimmt oder sie von den
